@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Ebay Product Search Test is Successful...]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="22725" started-at="2022-10-19T19:07:57 IST" finished-at="2022-10-19T19:08:20 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="22725" started-at="2022-10-19T19:07:57 IST" finished-at="2022-10-19T19:08:20 IST">
+      <class name="myDemos.MyTest">
+        <test-method status="PASS" signature="Search()[pri:0, instance:myDemos.MyTest@458c1321]" name="Search" duration-ms="22513" started-at="2022-10-19T19:07:57 IST" finished-at="2022-10-19T19:08:20 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Ebay Product Search Test is Successful...]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Search -->
+      </class> <!-- myDemos.MyTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
